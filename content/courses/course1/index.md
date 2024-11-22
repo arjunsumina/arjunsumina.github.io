@@ -1,6 +1,6 @@
 ---
-title: "Lectures at the Villa of Reduced Circumstances"
-date: 2003-03-10
+title: "Business Statistics"
+date:    2024-08-01
 lastmod: 2024-09-08
 aliases: 
     - /courses/course2/slides4.pdf
@@ -17,9 +17,9 @@ aliases:
     - /courses/course2/quiz4.pdf
     - /courses/course1/ps1.pdf
 tags: ["Romance languages","philology","irregular verbs","Spanish","Portuguese"]
-author: "Moritz-Maria von Igelfeld"
-description: "This graduate course presents classical results in Romance philology." 
-summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
+author: "Dr Arjun Anil Kumar"
+description: "This course focusses on applied probability and statistical concepts to solve relevant business problems." 
+summary: "This course focusses on applied probability and statistical concepts to solve relevant business problems." 
 cover:
     image: "course1.png"
     alt: "Villa of Reduced Circumstances"
@@ -34,25 +34,24 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-This course covers research topics related to Romance philology. It focuses especially on Portugese and Spanish irregular verbs. It tries to answer several questions: 
+This course focusses on applied probability and statistical concepts to solve relevant business problems.
++ Introduction to Probabilty 
++ Introduction to Sampling Distributions
++ Estimators
++ Hypothesis Testing - Mean, Variance and Proportions 
++ Linear Association and Linear Regression 
++ Logistic Regression
++ ANOVA
++ Chi-Square Test for Independence 
++ Design of Experiments
+    + Factorial Analysis of Variance Models
 
-+ Why are there irregular verbs? 
-+ How are Portuguese irregular verbs different from Spanish irregular verbs? 
-+ What is the role of Latin and Greek in these irregularities? 
-+ What about irregular verbs in other Romance languages?
-    + Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. 
-    + Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-    + Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    + Excepteur sint occaecat cupidatat non proident.
     
-Sunt in culpa qui officia deserunt mollit anim id est laborum.
+Grading : Relative Grading Mid-Sem (30\%) End-Sem (40\%) Internals (30\%)
 
-## Part 1: Review of Romance languages
+## Part 1: Introduction to Probability
 
-This section reviews Romance languages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This section deals with the basic concepts of probability.
 
 ##### Lecture videos
 

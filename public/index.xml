@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://arjunsumina.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Business Statistics</title>
+      <link>https://arjunsumina.github.io/courses/course1/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://arjunsumina.github.io/courses/course1/</guid>
+      <description>This course focusses on applied probability and statistical concepts to solve relevant business problems.</description>
+    </item>
+    <item>
       <title>Location</title>
       <link>https://arjunsumina.github.io/location/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
@@ -49,13 +56,6 @@
       <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
       <guid>https://arjunsumina.github.io/papers/paper2/</guid>
       <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
-    </item>
-    <item>
-      <title>Lectures at the Villa of Reduced Circumstances</title>
-      <link>https://arjunsumina.github.io/courses/course1/</link>
-      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>https://arjunsumina.github.io/courses/course1/</guid>
-      <description>This graduate course presents classical results in Romance philology.</description>
     </item>
     <item>
       <title>Portugese Irregular Verbs</title>
