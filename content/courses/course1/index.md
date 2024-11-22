@@ -65,7 +65,7 @@ This section deals with the basic concepts of probability.
 
 ##### Readings
 
-+ [Paper 1](https://pascalmichaillat.org/1.pdf) – This is a first paper to read.
++ [Paper 1](https://pascalmichaillat.org/1.pdf) – Introduction to Probability
 + [Paper 2](https://pascalmichaillat.org/2.pdf) – This paper builds on the first one.
 + [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper is more complex.
 
