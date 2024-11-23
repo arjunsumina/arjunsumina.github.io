@@ -1,5 +1,5 @@
 baseURL: "https://arjunsumina.github.io" 
-title: Moritz-Maria von Igelfeld
+title: Arjun Anil Kumar DMS NITC
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -101,7 +101,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Arjun Anil Kumar"
       icon: favicon.ico
       iconHeight: 18
 
