@@ -39,30 +39,49 @@ This course focusses on applied probability and statistical concepts to solve re
 + Introduction to Sampling Distributions
 + Estimators
 + Hypothesis Testing - Mean, Variance and Proportions 
-+ Linear Association and Linear Regression 
++ Parametric and Non-parametric Tests
++ Linear Regression 
 + Logistic Regression
 + ANOVA
-+ Chi-Square Test for Independence 
 + Design of Experiments
     + Factorial Analysis of Variance Models
 
     
 Grading : Relative Grading Mid-Sem (30\%) End-Sem (40\%) Internals (30\%)
 
-## Part 1: Introduction to Probability
+## Part 1: Probability
 
-This section deals with the basic concepts of probability.
-
+This section deals with the basic concepts of probability and distributions.
+<!--
 ##### Lecture videos
 
 + [Lecture video 1](https://youtu.be/3MZeJED2yns) – This is a first lecture video.
-+ [Lecture video 2](https://youtu.be/8ihJsf-AXdA) – This is a another lecture video.
-+ [Lecture video 3](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
+-->
 
 ##### Lecture notes
 
-+ [Lecture note 1](lecture1.pdf)
++ [Lecture note](lecture1.pdf) - 
 
+## Part 2: Hypothesis Testing
+
+This section deals with the basic concepts of parametric, non-parametric statistical hypothesis tests.
+
+##### Lecture notes
+
++ [Lecture note](lecture1.pdf) - 
+
+
+## Part 3: Linear Regression, Logistic Regression
+
+This section deals with the basic concepts of linear and logistic regression.
+
+##### Lecture notes
+
++ [Lecture note](lecture1.pdf) - 
+
+
+
+<!--
 ##### Readings
 
 + [Paper 1](https://pascalmichaillat.org/1.pdf) – Introduction to Probability
@@ -117,3 +136,4 @@ This section concludes by comparing Portuguese and Spanish irregular verbs to ir
 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+-->
