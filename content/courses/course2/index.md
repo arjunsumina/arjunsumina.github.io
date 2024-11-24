@@ -1,11 +1,11 @@
 ---
-title: "Profanity in Early Irish" 
-date: 1990-06-16
+title: "Quantitative Analytics" 
+date: 2024-06-16
 lastmod: 2024-07-12
 tags: ["Irish","philology","profanity","Celtic languages","language modernization"]
-author: ["Dieter Vogelsang","Moritz-Maria von Igelfeld"]
-description: "This undergraduate course discusses profanity in Early Irish." 
-summary: "This undergraduate course discusses profanity in Early Irish, and relates such profanity to profanity in modern English." 
+author: ["Arjun Anil Kumar"]
+description: "This graduate course covers all fundamental quantitative methods in Analytics" 
+summary: "This graduate course covers all fundamental quantitative methods in Analytics" 
 cover:
     image: "course2.png"
     alt: "Figure caption"
@@ -20,14 +20,14 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-This course covers topics related to profanity in Early Irish. It relates such profanity to profanity in modern English:
+This course covers topics related to quantitative methods in Analytics providing emphasis on the following concepts.
 
-+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-+ Sed fermentum turpis nec dolor dapibus, ac commodo enim consequat. 
-+ Suspendisse potenti. Integer ac mauris nec ligula finibus ullamcorper. 
-+ Phasellus rutrum enim in nunc aliquam mollis. 
-+ Vivamus auctor nunc ac augue dapibus, in fermentum enim hendrerit. Duis et ultrices sem, eget efficitur lacus. 
++ Linear Algebra
++ Machine Learning
++ Deep Learning
++ Linear and Non-linear Optimization 
 
+<!--
 ##### Introductory video
 
 + [Lecture video 0](https://youtu.be/8ihJsf-AXdA)
@@ -115,3 +115,5 @@ This section concludes. Lorem ipsum dolor sit amet, consectetur adipisicing elit
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+-->
