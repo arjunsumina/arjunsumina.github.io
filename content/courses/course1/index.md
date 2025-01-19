@@ -1,5 +1,5 @@
 ---
-title: "Business Statistics"
+title: "Applied Statistics"
 date:    2024-08-01
 lastmod: 2024-09-08
 aliases: 

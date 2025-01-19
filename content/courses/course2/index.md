@@ -1,11 +1,11 @@
 ---
-title: "Quantitative Analytics" 
+title: "Data Science" 
 date: 2024-06-16
 lastmod: 2024-07-12
-tags: ["Irish","philology","profanity","Celtic languages","language modernization"]
+tags: ["Data Science","Machine Learning"]
 author: ["Arjun Anil Kumar"]
-description: "This graduate course covers all fundamental quantitative methods in Analytics" 
-summary: "This graduate course covers all fundamental quantitative methods in Analytics" 
+description: "This graduate course provides an Introduction to Data Science with Python" 
+summary: "This graduate course covers most of the fundamental ML models of Data Science" 
 cover:
     image: "course2.png"
     alt: "Figure caption"
@@ -22,10 +22,15 @@ disableAnchoredHeadings: false
 
 This course covers topics related to quantitative methods in Analytics providing emphasis on the following concepts.
 
-+ Linear Algebra
-+ Machine Learning
-+ Deep Learning
-+ Linear and Non-linear Optimization 
++ Introduction to Data Science
++ ML Models
+
+##### Introductory readings
+This section deals with the basic concepts of decision making using data science, coding in Python and basic ML Models such as
+linear regression, logistic regression and decision tree.
++ [Lecture note](notes.pdf) - 
+
+ 
 
 <!--
 ##### Introductory video

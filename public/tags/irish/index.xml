@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Irish on Arjun Anil Kumar DMS NITC</title>
-    <link>https://arjunsumina.github.io/tags/irish/</link>
+    <link>http://localhost:1313/tags/irish/</link>
     <description>Recent content in Irish on Arjun Anil Kumar DMS NITC</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://arjunsumina.github.io/tags/irish/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/irish/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quantitative Analytics</title>
-      <link>https://arjunsumina.github.io/courses/course2/</link>
+      <link>http://localhost:1313/courses/course2/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://arjunsumina.github.io/courses/course2/</guid>
+      <guid>http://localhost:1313/courses/course2/</guid>
       <description>This graduate course covers all fundamental quantitative methods in Analytics</description>
     </item>
   </channel>
