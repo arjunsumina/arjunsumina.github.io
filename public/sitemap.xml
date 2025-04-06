@@ -29,19 +29,13 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/celtic-languages/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/irish/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/language-modernization/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/profanity/</loc>
+    <loc>http://localhost:1313/tags/data-science/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/courses/course2/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/location/</loc>
