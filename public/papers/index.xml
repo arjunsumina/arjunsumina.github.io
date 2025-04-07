@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Papers on Arjun Anil Kumar DMS NITC</title>
-    <link>http://localhost:1313/papers/</link>
+    <link>https://arjunsumina.github.io/papers/</link>
     <description>Recent content in Papers on Arjun Anil Kumar DMS NITC</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arjunsumina.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Your Inner Hedgehog</title>
-      <link>http://localhost:1313/papers/paper3/</link>
+      <link>https://arjunsumina.github.io/papers/paper3/</link>
       <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper3/</guid>
+      <guid>https://arjunsumina.github.io/papers/paper3/</guid>
       <description>This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021.</description>
     </item>
     <item>
       <title>Development of new index-based methodology for extraction of built-up area from landsat7 imagery: Comparison of performance with svm, ann, and existing indices</title>
-      <link>http://localhost:1313/papers/paper2/</link>
+      <link>https://arjunsumina.github.io/papers/paper2/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper2/</guid>
+      <guid>https://arjunsumina.github.io/papers/paper2/</guid>
       <description>The study proposes an urban index for computing built-up area from Landsat imagery</description>
     </item>
     <item>
       <title>Cross-sectional study of factors influencing the residential water demand in Bangalore</title>
-      <link>http://localhost:1313/papers/paper1/</link>
+      <link>https://arjunsumina.github.io/papers/paper1/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper1/</guid>
+      <guid>https://arjunsumina.github.io/papers/paper1/</guid>
       <description>The study investigates the influences of demographic and infrastructural covariates that drive the household water demand in the 198 municipal wards of Bangalore, India.</description>
     </item>
   </channel>
