@@ -6,8 +6,15 @@
     <description>Recent content on Arjun Anil Kumar DMS NITC</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Office Hours</title>
+      <link>http://localhost:1313/officehours/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/officehours/</guid>
+      <description>Office Hours</description>
+    </item>
     <item>
       <title>Applied Statistics</title>
       <link>http://localhost:1313/courses/course1/</link>
@@ -28,20 +35,6 @@
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/location/</guid>
       <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
-    </item>
-    <item>
-      <title>Office Hours</title>
-      <link>http://localhost:1313/officehours/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/officehours/</guid>
-      <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
-    </item>
-    <item>
-      <title>Your Inner Hedgehog</title>
-      <link>http://localhost:1313/papers/paper3/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper3/</guid>
-      <description>This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021.</description>
     </item>
     <item>
       <title>Development of new index-based methodology for extraction of built-up area from landsat7 imagery: Comparison of performance with svm, ann, and existing indices</title>

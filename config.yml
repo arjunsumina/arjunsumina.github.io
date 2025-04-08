@@ -19,9 +19,9 @@ menu:
         - name: Courses
           url: courses/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
+        #- name: Data
+        #  url: data/
+        #  weight: 4 
         - name: Blog
           url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
           weight: 6
@@ -53,7 +53,9 @@ params:
     profileMode:
           enabled: true
           title: Dr Arjun Anil Kumar
-          subtitle: "I am currently an Assistant Professor at the Department of Management Studies, National Institute of Technology Calicut. I was a doctoral student of Professor Dr. Parthasarathy Ramachandran in IISc Bangalore. My research lab focusses on extracting meaninful insights from remote sensing imagery for solving challenging problems in groundwater management, urban built-up management and flood management."
+          subtitle: |
+                    I am currently an Assistant Professor at the Department of Management Studies, National Institute of Technology Calicut. I was a doctoral student of Professor Dr. Parthasarathy Ramachandran in IISc Bangalore. My research lab focusses on extracting meaningful insights from remote sensing imagery for solving challenging problems in groundwater management, urban built-up management, urban flood management and sustainable agriculture. <br><br>
+                    Join Our Lab - PhD Positions Available!."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -62,22 +64,22 @@ params:
               url: papers/
             - name: Courses
               url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
+            #- name: Data
+            #  url: data/
+            #- name: Books
+            #  url: books/
+            #- name: Tags
+            #  url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Web
+              url: https://nitc.ac.in/department/management-studies/faculty-and-staff/faculty/581d60b3-aa0a-40ff-bfa6-748d34079c71
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: cv_arjun.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: mailto:arjunanilk@nitc.ac.in
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
@@ -85,15 +87,15 @@ params:
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?hl=en&user=cLoXq6QAAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://github.com/arjunsumina
+        #- name: Substack
+        #  url: https://pmichaillat.substack.com
         - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+          url: https://www.youtube.com/@ArjunAnilKumar-o5j
         - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://twitter.com/arjunanilk
 
     assets:
         disableScrollBarStyle: true

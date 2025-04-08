@@ -60,7 +60,7 @@ This section deals with the basic concepts of probability and distributions.
 
 ##### Lecture notes
 
-+ [Lecture note](lecture1.pdf) - 
++ [Lecture note](probability.pdf) - 
 
 ## Part 2: Hypothesis Testing
 
@@ -68,17 +68,7 @@ This section deals with the basic concepts of parametric, non-parametric statist
 
 ##### Lecture notes
 
-+ [Lecture note](lecture1.pdf) - 
-
-
-## Part 3: Linear Regression, Logistic Regression
-
-This section deals with the basic concepts of linear and logistic regression.
-
-##### Lecture notes
-
-+ [Lecture note](lecture1.pdf) - 
-
++ [Lecture note](parametric_tests.pdf) - 
 
 
 <!--

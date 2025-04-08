@@ -26,13 +26,12 @@ This course covers topics related to quantitative methods in Analytics providing
 + ML Models
 
 ##### Introductory readings
-This section deals with the basic concepts of decision making using data science, coding in Python and basic ML Models such as
-linear regression, logistic regression, decision tree and databases.
-+ [Lecture note 1](notes1.pdf) - 
+This section deals with the basic concepts of data science, coding in Python and databases.
++ [Lecture note 1](datascience.pdf) - 
 
 ##### Advanced readings
 This section covers advanced ML methods for data analytics.
-+ [Lecture note 2](notes2.pdf) - 
++ [Lecture note 2](arjunsumina.pdf) - 
 
  
 
