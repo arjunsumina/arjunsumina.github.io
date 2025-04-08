@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Arjun Anil Kumar DMS NITC</title>
-    <link>http://localhost:1313/</link>
+    <link>https://arjunsumina.github.io/</link>
     <description>Recent content on Arjun Anil Kumar DMS NITC</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arjunsumina.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Office Hours</title>
-      <link>http://localhost:1313/officehours/</link>
+      <link>https://arjunsumina.github.io/officehours/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/officehours/</guid>
+      <guid>https://arjunsumina.github.io/officehours/</guid>
       <description>Office Hours</description>
     </item>
     <item>
       <title>Applied Statistics</title>
-      <link>http://localhost:1313/courses/course1/</link>
+      <link>https://arjunsumina.github.io/courses/course1/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/course1/</guid>
+      <guid>https://arjunsumina.github.io/courses/course1/</guid>
       <description>This course focusses on applied probability and statistical concepts to solve relevant business problems.</description>
     </item>
     <item>
       <title>Data Science</title>
-      <link>http://localhost:1313/courses/course2/</link>
+      <link>https://arjunsumina.github.io/courses/course2/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/course2/</guid>
+      <guid>https://arjunsumina.github.io/courses/course2/</guid>
       <description>This graduate course provides an Introduction to Data Science with Python</description>
     </item>
     <item>
       <title>Location</title>
-      <link>http://localhost:1313/location/</link>
+      <link>https://arjunsumina.github.io/location/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/location/</guid>
+      <guid>https://arjunsumina.github.io/location/</guid>
       <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
     </item>
     <item>
       <title>Development of new index-based methodology for extraction of built-up area from landsat7 imagery: Comparison of performance with svm, ann, and existing indices</title>
-      <link>http://localhost:1313/papers/paper2/</link>
+      <link>https://arjunsumina.github.io/papers/paper2/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper2/</guid>
+      <guid>https://arjunsumina.github.io/papers/paper2/</guid>
       <description>The study proposes an urban index for computing built-up area from Landsat imagery</description>
     </item>
     <item>
       <title>Cross-sectional study of factors influencing the residential water demand in Bangalore</title>
-      <link>http://localhost:1313/papers/paper1/</link>
+      <link>https://arjunsumina.github.io/papers/paper1/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper1/</guid>
+      <guid>https://arjunsumina.github.io/papers/paper1/</guid>
       <description>The study investigates the influences of demographic and infrastructural covariates that drive the household water demand in the 198 municipal wards of Bangalore, India.</description>
     </item>
     <item>
       <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>http://localhost:1313/data/data1/</link>
+      <link>https://arjunsumina.github.io/data/data1/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/data/data1/</guid>
+      <guid>https://arjunsumina.github.io/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     <item>
       <title>Portugese Irregular Verbs</title>
-      <link>http://localhost:1313/books/book1/</link>
+      <link>https://arjunsumina.github.io/books/book1/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/books/book1/</guid>
+      <guid>https://arjunsumina.github.io/books/book1/</guid>
       <description>This book discusses Portugese irregular verbs in great details.</description>
     </item>
   </channel>
