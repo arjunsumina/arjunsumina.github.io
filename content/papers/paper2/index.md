@@ -1,8 +1,8 @@
 ---
 title: "Development of new index-based methodology for extraction of built-up area from landsat7 imagery: Comparison of performance with svm, ann, and existing indices" 
 date: 2020-06-28
-lastmod: 2024-07-12
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
+lastmod: 2020-06-28
+#tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
 author: ["Amritendu Mukherjee", "Arjun Anil Kumar","Parthasarathy Ramachandran"]
 description: "The study proposes an urban index for computing built-up area from Landsat imagery" 
 summary: "The study proposes an urban index for computing built-up area from Landsat imagery" 

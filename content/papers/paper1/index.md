@@ -1,8 +1,8 @@
 ---
 title: "Cross-sectional study of factors influencing the residential water demand in Bangalore" 
 date: 2019-01-15
-lastmod: 2024-07-12
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
+lastmod: 2019-01-15
+#tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Arjun Anil Kumar","Parthasarathy Ramachandran"]
 description: "The study investigates the influences of demographic and infrastructural covariates that drive the household water demand in the 198 municipal wards of Bangalore, India." 
 summary: "The study investigates the influences of demographic and infrastructural covariates that drive the household water demand in the 198 municipal wards of Bangalore, India." 

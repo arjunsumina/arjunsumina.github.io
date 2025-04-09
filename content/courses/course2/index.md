@@ -2,7 +2,7 @@
 title: "Data Science" 
 date: 2024-06-16
 lastmod: 2024-07-12
-tags: ["Data Science","Machine Learning"]
+#tags: ["Data Science","Machine Learning"]
 author: ["Arjun Anil Kumar"]
 description: "This graduate course provides an Introduction to Data Science with Python" 
 summary: "This graduate course covers most of the fundamental ML models of Data Science" 
