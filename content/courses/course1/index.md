@@ -64,7 +64,7 @@ This section deals with the basic concepts of probability and distributions.
 
 ## Part 2: Hypothesis Testing
 
-This section deals with the basic concepts of parametric, non-parametric statistical hypothesis tests.
+This section deals with the basic concepts of sampling and statistical hypothesis tests.
 
 ##### Lecture notes
 
