@@ -68,7 +68,7 @@ This section deals with the basic concepts of parametric, non-parametric statist
 
 ##### Lecture notes
 
-+ [Lecture note](parametric_tests.pdf) - 
++ [Lecture note](MS6107E_2025.pdf) - 
 
 
 <!--
