@@ -16,7 +16,7 @@ aliases:
     - /courses/course2/quiz3.pdf
     - /courses/course2/quiz4.pdf
     - /courses/course1/ps1.pdf
-tags: ["Romance languages","philology","irregular verbs","Spanish","Portuguese"]
+tags: ["Statistics","Regression"]
 author: "Dr Arjun Anil Kumar"
 description: "This course focusses on applied probability and statistical concepts to solve relevant business problems." 
 summary: "This course focusses on applied probability and statistical concepts to solve relevant business problems." 

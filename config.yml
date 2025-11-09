@@ -1,5 +1,5 @@
 baseURL: "https://arjunsumina.github.io" 
-title: Arjun Anil Kumar DMS NITC
+title: Dr. Arjun Anil Kumar DMS NITC
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -28,7 +28,7 @@ menu:
 
 params:
     description: "I am an Assistant Professor at National Institute of Technology Calicut"
-    author: Dr Arjun Anil Kumar
+    author: Dr. Arjun Anil Kumar
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
