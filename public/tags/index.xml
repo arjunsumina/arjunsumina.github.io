@@ -9,38 +9,17 @@
     <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Irregular Verbs</title>
-      <link>http://localhost:1313/tags/irregular-verbs/</link>
+      <title>Regression</title>
+      <link>http://localhost:1313/tags/regression/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/irregular-verbs/</guid>
+      <guid>http://localhost:1313/tags/regression/</guid>
       <description></description>
     </item>
     <item>
-      <title>Philology</title>
-      <link>http://localhost:1313/tags/philology/</link>
+      <title>Statistics</title>
+      <link>http://localhost:1313/tags/statistics/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/philology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Portuguese</title>
-      <link>http://localhost:1313/tags/portuguese/</link>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/portuguese/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Romance Languages</title>
-      <link>http://localhost:1313/tags/romance-languages/</link>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/romance-languages/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Spanish</title>
-      <link>http://localhost:1313/tags/spanish/</link>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spanish/</guid>
+      <guid>http://localhost:1313/tags/statistics/</guid>
       <description></description>
     </item>
     <item>
@@ -58,10 +37,31 @@
       <description></description>
     </item>
     <item>
+      <title>Irregular Verbs</title>
+      <link>http://localhost:1313/tags/irregular-verbs/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/irregular-verbs/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Italian</title>
       <link>http://localhost:1313/tags/italian/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/italian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philology</title>
+      <link>http://localhost:1313/tags/philology/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/philology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portuguese</title>
+      <link>http://localhost:1313/tags/portuguese/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/portuguese/</guid>
       <description></description>
     </item>
     <item>
@@ -72,10 +72,24 @@
       <description></description>
     </item>
     <item>
+      <title>Romance Languages</title>
+      <link>http://localhost:1313/tags/romance-languages/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/romance-languages/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Simulations</title>
       <link>http://localhost:1313/tags/simulations/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/simulations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spanish</title>
+      <link>http://localhost:1313/tags/spanish/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spanish/</guid>
       <description></description>
     </item>
     <item>
