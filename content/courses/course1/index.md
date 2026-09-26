@@ -51,7 +51,7 @@ Grading : Relative Grading Mid-Sem (30\%) End-Sem (40\%) Internals (30\%)
 
 ## Part 1: Probability
 
-This section deals with the basic concepts of probability and distributions.
+This chapter develops probability theory as a mathematical framework for reasoning under uncertainty. It introduces random experiments, sample spaces, events, set operations, partitions, algebraic laws, sigma-algebras, and probability axioms.
 <!--
 ##### Lecture videos
 
@@ -68,7 +68,14 @@ This section deals with the basic concepts of sampling and statistical hypothesi
 
 ##### Lecture notes
 
-+ [Lecture note](MS6107E_2025.pdf) - 
++ [Lecture note](hypothesis_testing.pdf) - 
+
+
+## Part 3: Linear Regression and ANOVA
+
+##### Lecture notes
+
++ [Lecture note](linear_anova.pdf) - 
 
 
 <!--
