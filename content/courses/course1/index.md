@@ -52,30 +52,34 @@ Grading : Relative Grading Mid-Sem (30\%) End-Sem (40\%) Internals (30\%)
 ## Part 1: Probability
 
 This chapter develops probability theory as a mathematical framework for reasoning under uncertainty. It introduces random experiments, sample spaces, events, set operations, partitions, algebraic laws, sigma-algebras, and probability axioms.
+
 <!--
 ##### Lecture videos
 
-+ [Lecture video 1](https://youtu.be/3MZeJED2yns) – This is a first lecture video.
+- [Lecture video 1](https://youtu.be/3MZeJED2yns) – This is a first lecture video.
 -->
 
 ##### Lecture notes
 
-+ [Lecture note](probability.pdf) - 
+- [Lecture note](probability.pdf)
 
 ## Part 2: Hypothesis Testing
 
-This section deals with the basic concepts of sampling and statistical hypothesis tests.
+This chapter deals with the basic concepts of sampling and statistical hypothesis tests.
 
 ##### Lecture notes
 
-+ [Lecture note](hypothesis_testing.pdf) - 
-
+- [Lecture note](hypothesis_testing.pdf)
 
 ## Part 3: Linear Regression and ANOVA
 
+This chapter introduces linear regression and ANOVA for examining relationships between variables, modelling continuous outcomes, and comparing means across multiple groups.
+
 ##### Lecture notes
 
-+ [Lecture note](linear_anova.pdf) - 
+- [Lecture note](linear_anova.pdf)
+
+
 
 
 <!--
